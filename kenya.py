@@ -1,0 +1,1 @@
+print (" it is such a hot day")
